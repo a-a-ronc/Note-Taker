@@ -27,4 +27,11 @@ router.post('/notes', (req,res) =>{
     });
 });
 
+router.delete('/notes/:id', (req, res) => {
+    const noteId = req.params.id;
+    // Logic to delete the note with the given ID from the database
+    // This could involve interacting with a database or some other data source
+    res.json({ message: `Note with ID ${noteId} deleted successfully` });
+  });
+
 module.exports = router;

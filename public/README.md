@@ -61,10 +61,9 @@ This is a note taking application that allows the user to view, add and delete n
 - **Deleting**: The application currently has the ability to delete on the front end but not on the back end. I would like to add this functionality in the future
 - **Saving**:  The app currently saves data when you close the window or navigate away from the site. Preferably this application should add notes upon the click of the "save note" button rather than upon the refreshing of the page. 
 
-
 ## Contributions
 
-Contributions are welcome! If you find any issues or want to enhance the application, submit a pull request. Assistance was received from both my TA as well as instructor. Shout out to Dennis Itua and Tom Gold. 
+Contributions are welcome! If you find any issues or want to enhance the application, submit a pull request. Assistance was received from both my TA as well as instructor. Shout out to Dennis Itua and Tom Gold. I left the code I had initially created but it would not launch with heroku. It only worked in the terminal for some odd reason so I redid it with the code implemented. It is odd as to why the example delete functionality works and it does not with mine.
 
 
 ## License

@@ -58,8 +58,7 @@ This is a note taking application that allows the user to view, add and delete n
 - `script.js`: JavaScript file containing the application logic.
 
 ## Issues and Future Modifications
-- **Deleting**: The application currently has the ability to delete on the front end but not on the back end. I would like to add this functionality in the future
-- **Saving**:  The app currently saves data when you close the window or navigate away from the site. Preferably this application should add notes upon the click of the "save note" button rather than upon the refreshing of the page. 
+- **Add Ons**: It would be nice to add functionality similar to that of OneNote, where you can add  images or links within text fields. Including note book
 
 ## Contributions
 
